@@ -1,2 +1,4 @@
 # PROJECT-2023-PONPA
-сайт с фигмой
+ERD DIAGRAMMA
+
+![erd ka](https://github.com/DataSATANIST1415/PROJECT-2023-PONPA/assets/150459634/76e0b439-4560-420c-ba96-bd1a59d38c0b)
