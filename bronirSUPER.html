@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/CSSER.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container bg-body-tertiary" style="margin-top: 50px;">
+        <p class="text-center"><strong>Данные об книге</strong></p>
+        <form action="bronirSUPER1.php" method="post">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Автор Книги</label>
+                <input type="text" class="form-control" name="author">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Название книги</label>
+                <input type="text" class="form-control" name="title">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Дата бронирования</label>
+                <input type="date" class="form-control" name="booking_date">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Дата возврата</label>
+                <input type="date" class="form-control" name="return_date">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Филиал</label>
+                <input type="text" class="form-control" name="filial_id">
+            </div>
+            <button class="btn btn-success" type="submit">Оформить</button>
+        </form>
+    </div>
+    <!-- Остальной контент -->
+</body>
+</html>

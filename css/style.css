@@ -1,0 +1,519 @@
+html {
+    background-image: url('https://long.altapress.ru/barnaul-zhdet/images/tild3865-3632-4636-b564-353364373530__0_89600_e00ddac5_orig.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 75px;
+}
+
+.logo {
+    background: url(logo.jpg);
+    background-size: 150px;
+    width: 150px;
+    height: 155px;
+    background-repeat: no-repeat;
+    float: left;
+    
+}
+
+.name {
+    font-size: 25pt;
+    padding-left: 40%;
+    width: 160px;
+}
+
+.navig {
+    float: right;
+    list-style: none;
+}
+
+.navig li {
+    display: inline;
+}
+
+.about {
+    background-color: rgb(230, 221, 221);
+    width: 95%;
+    height: 150px;
+    border-radius: 12px;
+    margin-left: 40px;
+}
+
+.about span {
+    font-size: larger;
+}
+
+.search {
+    background-color: rgb(127, 255, 212);
+    margin-left: 40px;
+    border-radius: 12px;
+    margin-top: 30px;
+    width: 95%;
+    height: 450px;
+}
+
+.search span {
+    font-size: larger;
+    text-align: center;
+}
+
+.inp {
+    width: 90%;
+    height:  50px;
+    font-size: 25pt;
+    margin-left: 75px;
+}
+
+.inpt {
+    margin-left: 47%;
+    text-align: center;
+}
+
+.but {
+    margin-top: 40px;
+    margin-left: 40%;
+    width: 300px;
+    height: 50px;
+}
+
+.news {
+    background-color: rgb(127, 255, 212);
+    margin-left: 12%;
+    border-radius: 12px;
+    margin-top: 30px;
+    width: 67%;
+    height: 950px;
+    padding-top: 5px;
+    padding-bottom: 85px;
+}
+
+.news span{
+    font-size: larger;
+    margin-left: 45%;
+}
+
+.news1 {
+    background-color: rgb(164, 172, 166);
+    width: 100%;
+    height: 200px;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+.news2 {
+    background-color: rgb(164, 172, 166);
+    width: 100%;
+    height: 200px;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+.news3 {
+    background-color: rgb(164, 172, 166);
+    width: 100%;
+    height: 200px;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+.news4 {
+    background-color: rgb(164, 172, 166);
+    width: 100%;
+    height: 200px;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: #292626;
+     position: relative;
+     width: 100%;
+     height: 50px;
+   }
+
+.fott {
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+.card {
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.card h2 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.card p {
+    font-size: 14px;
+    color: #666;
+}
+
+
+
+
+
+<-- ВЫРЕЗАННЫЙ КОД ИЗ ДРУГОГО CSS !-->
+
+}
+.header_menu{
+width: 100%;
+height: 250px;
+left: 0px;
+top: 0px;
+background: radial-gradient(at top, #590044, #740065);
+border-radius: 0px 0px 15px 15px; 
+}
+
+.menu_item1{
+position: absolute;
+width: 200px;
+height: 80px;
+left: 160px;
+top: 10px;
+color:black;
+}
+
+.menu_item2{
+position: absolute;
+width: 200px;
+height: 80px;
+left: 240px;
+top: 10px;
+}
+
+.menu_item3{
+position: absolute;
+width: 200px;
+height: 80px;
+left: 320px;
+top: 10px;}
+
+.menu_item4{
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    left: 340px;
+    top: 10px;}
+.menu_item5{
+position: absolute;
+width: 130px;
+height: 45px;
+left: 140px;
+top: 97px;
+display: inline-block;
+background: #BC18B0;
+color: #000000;
+padding: 12px;
+border-radius: 5px;
+text-decoration: none;
+font-family: Tahoma;
+font-size: 18px;
+line-height: 1;
+font-weight: 100;
+text-align: center;
+}
+.menu_item5 a{
+color: black;
+text-decoration: none;
+}
+.menu_item6{
+        position: absolute;
+        width: 200px;
+        height: 80px;
+        left: 1165px;
+        top: 110px;
+      }
+.menu_item7{
+        position: absolute;
+        width: 200px;
+        height: 80px;
+        left: 1340px;
+        top: 110px;
+      }
+
+ .menu_item8{
+position: absolute;
+width: 200px;
+height: 80px;
+left: 145px;
+top: 180px;
+color:black;
+font-size: 20px;
+font-weight: bold;
+transition: 1s;
+text-align:none;
+}
+.menu_item8:hover,.menu_item9:hover,.menu_item10:hover,.menu_item11:hover,.menu_item12:hover{
+transform: scale(1.2);
+}
+
+.menu_item9{
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  left: 400px;
+  top: 180px;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 1s;
+text-align:none;
+  }
+
+  .menu_item10{
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  left: 650px;
+  top: 180px;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 1s;
+text-align:none;
+  }
+  
+  .menu_item11{
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  left: 900px;
+  top: 180px;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 1s;
+text-align:none;
+  }
+
+ .menu_item12{
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  left: 1220px;
+  top: 180px;
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  transition: 1s;
+text-align:none;
+  }
+
+
+
+  .ico-ind {
+  position: absolute;  
+  width: 26px;
+  display: block;
+  left: 1130px;
+  top: 105px;
+}
+
+.ico-ind1 {
+  position: absolute;  
+  width: 24px;
+  display: block;
+  left: 1305px;
+  top: 105px;
+}
+
+.header_menu ul li a {
+        color:#fff;
+        text-decoration: none;
+    }
+
+* {box-sizing: border-box;}
+form {
+  position: absolute;
+  width: 800px;
+  height: 100px;
+  left: 300px;
+  top: 97px;
+  }
+input {
+      width: 100%;
+      height: 45px;
+      padding-left: 10px;
+      border: 2px solid #ffffff;
+      border-radius: 5px;
+      outline: none;
+      background: #ffffff;
+      color: #ffffff;
+      margin-top: 1.5%;
+    }
+button {
+      position: absolute; 
+      top: 0;
+      right: 0px;
+      width: 70px;
+      height: 45px;
+      border: none;
+      background: aqua;
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      margin-top: 1.5%;
+
+    }
+button:before {
+  content: normal;
+      font-family: FontAwesome;
+      font-size: 16px;
+      color: #F9F0DA;
+    }
+.tovar{
+  font-size: 25px;
+  font-weight: bold;
+  padding-left:90px;
+}
+.content{
+  padding: 20px;
+  position: absolute;
+  float:left;
+
+}
+.leftfoto{
+  float: left;
+}
+
+
+
+.section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 60;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  min-width: 300px; /* Ограничение ширины */
+  margin: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  position: relative;
+  margin-bottom: 0;
+  display: flex;
+  allign-items: stretch;
+}
+.card img {
+height: 220px;
+width: 100%;
+
+}
+.cards h3 {
+  color: #000000;
+  
+}
+
+.price {
+  color: #000000;
+  font-size: 26px;
+}
+.card button {
+  margin: 0;
+  padding: auto;
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: #fff;
+  background-color: aqua;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  position: absolute;
+  left: 0px;
+
+ 
+}
+.cards {
+  display: grid;
+  /* Автоматически заполняем на всю ширину grid-контейнера */
+  grid-template-columns: repeat(auto-fill, 325px);
+  width: 100%;
+  max-width: 1750px; /* Ширина grid-контейнера */
+  justify-content: center;
+  justify-items: center; /* Размещаем карточку по центру */
+  column-gap: 30px; /* Отступ между колонками */
+  row-gap: 40px; /* Отступ между рядами */
+  margin: 0 auto;
+}
+.footer{
+  background-color: #494949;
+  height: 300px;
+  bottom:0;
+  left:0;
+  width:100%;
+  position: relative;
+  text-decoration: none;
+}
+.foot_list1{
+  text-decoration: none;
+}  
+.nomer{
+  position: absolute;
+  left: 300px;
+  bottom: 105px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  /* CSS для устройств с шириной экрана меньше 768px */
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+  
+  .mb-3 {
+    margin-bottom: 5px;
+  }
+  
+  .form-check {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-check-input {
+    width: 100%;
+  }
+  
+  .form-check-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .btn {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
